@@ -1,0 +1,6 @@
+C:\projects\itextsharp\src\extras\iTextAsian\bin\Release\netstandard2.0\iTextAsian.deps.json
+C:\projects\itextsharp\src\extras\iTextAsian\bin\Release\netstandard2.0\iTextAsian.dll
+C:\projects\itextsharp\src\extras\iTextAsian\obj\Release\netstandard2.0\iTextAsian.csproj.AssemblyReference.cache
+C:\projects\itextsharp\src\extras\iTextAsian\obj\Release\netstandard2.0\iTextAsian.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\itextsharp\src\extras\iTextAsian\obj\Release\netstandard2.0\iTextAsian.csproj.CoreCompileInputs.cache
+C:\projects\itextsharp\src\extras\iTextAsian\obj\Release\netstandard2.0\iTextAsian.dll

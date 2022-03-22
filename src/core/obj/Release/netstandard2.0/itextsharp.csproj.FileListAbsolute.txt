@@ -1,0 +1,7 @@
+C:\projects\itextsharp\src\core\bin\Release\netstandard2.0\itextsharp.deps.json
+C:\projects\itextsharp\src\core\bin\Release\netstandard2.0\itextsharp.dll
+C:\projects\itextsharp\src\core\bin\Release\netstandard2.0\iTextSharp.xml
+C:\projects\itextsharp\src\core\obj\Release\netstandard2.0\itextsharp.csproj.AssemblyReference.cache
+C:\projects\itextsharp\src\core\obj\Release\netstandard2.0\itextsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\itextsharp\src\core\obj\Release\netstandard2.0\itextsharp.csproj.CoreCompileInputs.cache
+C:\projects\itextsharp\src\core\obj\Release\netstandard2.0\itextsharp.dll

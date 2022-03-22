@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <OutputType>Library</OutputType>
+    <RootNamespace></RootNamespace>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>itextsharp.snk</AssemblyOriginatorKeyFile>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="iTextSharp\errors\errors_en.properties" />
+    <EmbeddedResource Include="iTextSharp\errors\errors.properties" />
+    <EmbeddedResource Include="iTextSharp\errors\errors_nl.properties" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="iTextSharp\tool\xml\css\default.css" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\core\itextsharp.csproj" />
+  </ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="System.Drawing.Common" Version="6.0.0" />
+		<PackageReference Include="System.Security.Cryptography.Xml" Version="6.0.0" />
+	</ItemGroup>
+</Project>

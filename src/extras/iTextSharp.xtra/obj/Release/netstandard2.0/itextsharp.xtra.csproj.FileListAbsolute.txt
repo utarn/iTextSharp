@@ -1,0 +1,11 @@
+C:\projects\itextsharp\src\extras\itextsharp.xtra\bin\Release\netstandard2.0\itextsharp.xtra.deps.json
+C:\projects\itextsharp\src\extras\itextsharp.xtra\bin\Release\netstandard2.0\itextsharp.xtra.dll
+C:\projects\itextsharp\src\extras\itextsharp.xtra\bin\Release\netstandard2.0\itextsharp.xtra.pdb
+C:\projects\itextsharp\src\extras\itextsharp.xtra\bin\Release\netstandard2.0\itextsharp.dll
+C:\projects\itextsharp\src\extras\itextsharp.xtra\bin\Release\netstandard2.0\itextsharp.xml
+C:\projects\itextsharp\src\extras\itextsharp.xtra\obj\Release\netstandard2.0\itextsharp.xtra.csproj.AssemblyReference.cache
+C:\projects\itextsharp\src\extras\itextsharp.xtra\obj\Release\netstandard2.0\itextsharp.xtra.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\itextsharp\src\extras\itextsharp.xtra\obj\Release\netstandard2.0\itextsharp.xtra.csproj.CoreCompileInputs.cache
+C:\projects\itextsharp\src\extras\itextsharp.xtra\obj\Release\netstandard2.0\itextsharp.xtra.csproj.CopyComplete
+C:\projects\itextsharp\src\extras\itextsharp.xtra\obj\Release\netstandard2.0\itextsharp.xtra.dll
+C:\projects\itextsharp\src\extras\itextsharp.xtra\obj\Release\netstandard2.0\itextsharp.xtra.pdb

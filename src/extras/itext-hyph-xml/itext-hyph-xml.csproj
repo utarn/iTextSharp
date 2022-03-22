@@ -1,0 +1,121 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProjectType>Local</ProjectType>
+    <AssemblyKeyContainerName></AssemblyKeyContainerName>
+    <AssemblyOriginatorKeyFile>itextsharp.snk</AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <RootNamespace>iTextSharp.text.pdf.hyphenation.hyph</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject></StartupObject>
+    <SignAssembly>true</SignAssembly>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile></ConfigurationOverrideFile>
+    <DocumentationFile></DocumentationFile>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn></NoWarn>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile></ConfigurationOverrideFile>
+    <DocumentationFile></DocumentationFile>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn></NoWarn>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Update="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Update="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Update="System.XML">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="af.xml" />
+    <EmbeddedResource Include="as.xml" />
+    <EmbeddedResource Include="bg.xml" />
+    <EmbeddedResource Include="bn.xml" />
+    <EmbeddedResource Include="ca.xml" />
+    <EmbeddedResource Include="cop.xml" />
+    <EmbeddedResource Include="cs.xml" />
+    <EmbeddedResource Include="cy.xml" />
+    <EmbeddedResource Include="da.xml" />
+    <EmbeddedResource Include="de.xml" />
+    <EmbeddedResource Include="de_1901.xml" />
+    <EmbeddedResource Include="de_CH.xml" />
+    <EmbeddedResource Include="de_DR.xml" />
+    <EmbeddedResource Include="el.xml" />
+    <EmbeddedResource Include="el_Polyton.xml" />
+    <EmbeddedResource Include="en.xml" />
+    <EmbeddedResource Include="en_GB.xml" />
+    <EmbeddedResource Include="en_US.xml" />
+    <EmbeddedResource Include="eo.xml" />
+    <EmbeddedResource Include="es.xml" />
+    <EmbeddedResource Include="et.xml" />
+    <EmbeddedResource Include="eu.xml" />
+    <EmbeddedResource Include="fi.xml" />
+    <EmbeddedResource Include="fr.xml" />
+    <EmbeddedResource Include="ga.xml" />
+    <EmbeddedResource Include="gl.xml" />
+    <EmbeddedResource Include="grc.xml" />
+    <EmbeddedResource Include="gu.xml" />
+    <EmbeddedResource Include="hi.xml" />
+    <EmbeddedResource Include="hr.xml" />
+    <EmbeddedResource Include="hsb.xml" />
+    <EmbeddedResource Include="hu.xml" />
+    <EmbeddedResource Include="hy.xml" />
+    <EmbeddedResource Include="ia.xml" />
+    <EmbeddedResource Include="id.xml" />
+    <EmbeddedResource Include="is.xml" />
+    <EmbeddedResource Include="it.xml" />
+    <EmbeddedResource Include="kmr.xml" />
+    <EmbeddedResource Include="kn.xml" />
+    <EmbeddedResource Include="la.xml" />
+    <EmbeddedResource Include="lo.xml" />
+    <EmbeddedResource Include="lt.xml" />
+    <EmbeddedResource Include="lv.xml" />
+    <EmbeddedResource Include="ml.xml" />
+    <EmbeddedResource Include="mn.xml" />
+    <EmbeddedResource Include="mr.xml" />
+    <EmbeddedResource Include="nb.xml" />
+    <EmbeddedResource Include="nl.xml" />
+    <EmbeddedResource Include="nn.xml" />
+    <EmbeddedResource Include="no.xml" />
+    <EmbeddedResource Include="or.xml" />
+    <EmbeddedResource Include="pa.xml" />
+    <EmbeddedResource Include="pl.xml" />
+    <EmbeddedResource Include="pt.xml" />
+    <EmbeddedResource Include="ro.xml" />
+    <EmbeddedResource Include="ru.xml" />
+    <EmbeddedResource Include="sa.xml" />
+    <EmbeddedResource Include="sk.xml" />
+    <EmbeddedResource Include="sl.xml" />
+    <EmbeddedResource Include="sr_Cyrl.xml" />
+    <EmbeddedResource Include="sr_Latn.xml" />
+    <EmbeddedResource Include="sv.xml" />
+    <EmbeddedResource Include="ta.xml" />
+    <EmbeddedResource Include="te.xml" />
+    <EmbeddedResource Include="tk.xml" />
+    <EmbeddedResource Include="tr.xml" />
+    <EmbeddedResource Include="uk.xml" />
+    <EmbeddedResource Include="zh_Latn.xml" />
+  </ItemGroup>
+  <PropertyGroup />
+</Project>

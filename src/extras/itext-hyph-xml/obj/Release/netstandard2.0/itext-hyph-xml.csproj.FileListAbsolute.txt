@@ -1,0 +1,6 @@
+C:\projects\itextsharp\src\extras\itext-hyph-xml\bin\Release\netstandard2.0\itext-hyph-xml.deps.json
+C:\projects\itextsharp\src\extras\itext-hyph-xml\bin\Release\netstandard2.0\itext-hyph-xml.dll
+C:\projects\itextsharp\src\extras\itext-hyph-xml\obj\Release\netstandard2.0\itext-hyph-xml.csproj.AssemblyReference.cache
+C:\projects\itextsharp\src\extras\itext-hyph-xml\obj\Release\netstandard2.0\itext-hyph-xml.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\itextsharp\src\extras\itext-hyph-xml\obj\Release\netstandard2.0\itext-hyph-xml.csproj.CoreCompileInputs.cache
+C:\projects\itextsharp\src\extras\itext-hyph-xml\obj\Release\netstandard2.0\itext-hyph-xml.dll

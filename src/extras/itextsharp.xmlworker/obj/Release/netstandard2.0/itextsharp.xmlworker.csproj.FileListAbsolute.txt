@@ -1,0 +1,11 @@
+C:\projects\itextsharp\src\extras\itextsharp.xmlworker\bin\Release\netstandard2.0\itextsharp.xmlworker.deps.json
+C:\projects\itextsharp\src\extras\itextsharp.xmlworker\bin\Release\netstandard2.0\itextsharp.xmlworker.dll
+C:\projects\itextsharp\src\extras\itextsharp.xmlworker\bin\Release\netstandard2.0\itextsharp.xmlworker.pdb
+C:\projects\itextsharp\src\extras\itextsharp.xmlworker\bin\Release\netstandard2.0\itextsharp.dll
+C:\projects\itextsharp\src\extras\itextsharp.xmlworker\bin\Release\netstandard2.0\itextsharp.xml
+C:\projects\itextsharp\src\extras\itextsharp.xmlworker\obj\Release\netstandard2.0\itextsharp.xmlworker.csproj.AssemblyReference.cache
+C:\projects\itextsharp\src\extras\itextsharp.xmlworker\obj\Release\netstandard2.0\itextsharp.xmlworker.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\itextsharp\src\extras\itextsharp.xmlworker\obj\Release\netstandard2.0\itextsharp.xmlworker.csproj.CoreCompileInputs.cache
+C:\projects\itextsharp\src\extras\itextsharp.xmlworker\obj\Release\netstandard2.0\itextsharp.xmlworker.csproj.CopyComplete
+C:\projects\itextsharp\src\extras\itextsharp.xmlworker\obj\Release\netstandard2.0\itextsharp.xmlworker.dll
+C:\projects\itextsharp\src\extras\itextsharp.xmlworker\obj\Release\netstandard2.0\itextsharp.xmlworker.pdb

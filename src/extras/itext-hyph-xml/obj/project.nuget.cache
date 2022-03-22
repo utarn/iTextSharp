@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1/HsDVbPKTXLm+nOciTqTNnNsXlb94CyUcMDq+gXpsCBcVorySGj9BehdN8WQZeOc2WUssFx3xuESiPRNkWKFA==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\itextsharp\\src\\extras\\itext-hyph-xml\\itext-hyph-xml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ooh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ooh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

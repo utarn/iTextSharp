@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eGzg8Mjayu+BvH3TrwpylCAMXjgetF4gdnLkCwAJsdM8mozHtPrLZ8qbR1ajMsVdBrLT6KD4un+iZa5K1svDQg==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\itextsharp\\src\\extras\\iTextAsian\\iTextAsian.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ooh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ooh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
